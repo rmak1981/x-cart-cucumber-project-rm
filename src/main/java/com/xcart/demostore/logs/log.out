@@ -1,0 +1,120 @@
+2020-04-29 19:04:13 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 19:04:480 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (c73e99a52a683c347822b1c79e3e97c5)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 20:04:502 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 20:04:725 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (4cdc804861978723d249cf9d66058595)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 20:04:835 INFO  LoginPage :34 - Entering email id in the email field[[ChromeDriver: chrome on WINDOWS (4cdc804861978723d249cf9d66058595)] -> css selector: input#login-email]
+2020-04-29 20:04:108 INFO  LoginPage :40 - Entering password in the password field[[ChromeDriver: chrome on WINDOWS (4cdc804861978723d249cf9d66058595)] -> css selector: input#login-password]
+2020-04-29 20:04:316 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 20:04:594 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (983c542b2f384275a522893136789616)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 20:04:772 INFO  LoginPage :34 - Entering email id in the email field[[ChromeDriver: chrome on WINDOWS (983c542b2f384275a522893136789616)] -> css selector: input#login-email]
+2020-04-29 20:04:38 INFO  LoginPage :40 - Entering password in the password field[[ChromeDriver: chrome on WINDOWS (983c542b2f384275a522893136789616)] -> css selector: input#login-password]
+2020-04-29 20:04:380 INFO  LoginPage :46 - Clicking on sign in button[[ChromeDriver: chrome on WINDOWS (983c542b2f384275a522893136789616)] -> xpath: //button[contains(@class,'submit')]//span[contains(text(),'Sign in')]]
+2020-04-29 20:04:587 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 20:04:128 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (127450d4a630a1a1558e8184f6994fbf)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 20:04:226 INFO  LoginPage :34 - Entering email id in the email field[[ChromeDriver: chrome on WINDOWS (127450d4a630a1a1558e8184f6994fbf)] -> css selector: input#login-email]
+2020-04-29 20:04:511 INFO  LoginPage :40 - Entering password in the password field[[ChromeDriver: chrome on WINDOWS (127450d4a630a1a1558e8184f6994fbf)] -> css selector: input#login-password]
+2020-04-29 20:04:915 INFO  LoginPage :46 - Clicking on sign in button[[ChromeDriver: chrome on WINDOWS (127450d4a630a1a1558e8184f6994fbf)] -> xpath: //button[contains(@class,'submit')]//span[contains(text(),'Sign in')]]
+2020-04-29 20:04:268 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 20:04:812 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (c4fd85332bbda7e196ce858dd0a4ac7c)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 20:04:164 INFO  LoginPage :34 - Entering email id in the email field[[ChromeDriver: chrome on WINDOWS (c4fd85332bbda7e196ce858dd0a4ac7c)] -> css selector: input#login-email]
+2020-04-29 20:04:728 INFO  LoginPage :40 - Entering password in the password field[[ChromeDriver: chrome on WINDOWS (c4fd85332bbda7e196ce858dd0a4ac7c)] -> css selector: input#login-password]
+2020-04-29 20:04:17 INFO  LoginPage :46 - Clicking on sign in button[[ChromeDriver: chrome on WINDOWS (c4fd85332bbda7e196ce858dd0a4ac7c)] -> xpath: //button[contains(@class,'submit')]//span[contains(text(),'Sign in')]]
+2020-04-29 20:04:65 INFO  AccountPage :39 - Verifying Account text[[ChromeDriver: chrome on WINDOWS (c4fd85332bbda7e196ce858dd0a4ac7c)] -> xpath: //a[contains(text(),'My account')]]
+2020-04-29 20:04:339 INFO  AccountPage :45 - Clicking on My account button[[ChromeDriver: chrome on WINDOWS (c4fd85332bbda7e196ce858dd0a4ac7c)] -> xpath: //a[contains(text(),'My account')]]
+2020-04-29 20:04:735 INFO  AccountPage :33 - Clicking on logout buttonProxy element for: DefaultElementLocator 'By.xpath: //ul[@class='account-links dropdown-menu']//li[7]'
+2020-04-29 20:04:823 INFO  HomePage :25 - verifying Sign in text on Home page[[ChromeDriver: chrome on WINDOWS (c4fd85332bbda7e196ce858dd0a4ac7c)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 20:04:763 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 20:04:633 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (81d1fb1a235774c9454b585ef8affda2)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 20:04:706 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 20:04:211 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (ab960b963dd7b23f39608fde951ffe67)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 20:04:483 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 20:04:727 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (6b49f950b2cca5629573d839ede1010f)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 20:04:304 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 20:04:107 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (2ff7c70f3767a110ef2f41509321c5ee)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 20:04:440 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 20:04:781 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (192fe13010292664267bfc3ce489477b)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 20:04:511 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 20:04:670 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (ad1e9a193a39824d6388485f022c47b3)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 20:04:909 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 20:04:359 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (2f2e72d2a55069c1545590e25f4a9be7)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 20:04:277 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 20:04:881 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 20:04:422 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (9c6fc45f183a9b3b8819846286f1ecae)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 20:04:556 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 20:04:111 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 20:04:169 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (c6626d3c5c6f5e6506f4cb808ef1b800)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 20:04:494 INFO  LoginPage :28 - Clicking on creating new account Proxy element for: DefaultElementLocator 'By.cssSelector: a[class$='create-account-link']'
+2020-04-29 20:04:212 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 20:04:816 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (2f8d777c8b32a473bdb7f2d75947716b)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 21:04:148 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 21:04:868 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (42711c0eeabcce38b6c87d24aca935a0)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 21:04:88 INFO  LoginPage :28 - Clicking on creating new account Proxy element for: DefaultElementLocator 'By.cssSelector: a[class$='create-account-link']'
+2020-04-29 21:04:242 INFO  HomePage :30 - Entering email id in the email field[[ChromeDriver: chrome on WINDOWS (42711c0eeabcce38b6c87d24aca935a0)] -> xpath: //li[contains(@class,'input input-text-email input input-text-email first focused')]//input[@id='login']]
+2020-04-29 21:04:291 INFO  HomePage :43 - enter passwordlondon1to the filed[[ChromeDriver: chrome on WINDOWS (42711c0eeabcce38b6c87d24aca935a0)] -> xpath: //li[@class='input input-password input input-password focused']//input[@id='password']]
+2020-04-29 21:04:796 INFO  HomePage :49 - enter passwordlondon1to the filed[[ChromeDriver: chrome on WINDOWS (42711c0eeabcce38b6c87d24aca935a0)] -> xpath: //li[@class='input input-password input input-password last focused']//input[@id='password-conf']]
+2020-04-29 21:04:219 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 21:04:992 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (d8074d3061465462bb37279be1ab9e7e)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 21:04:950 INFO  LoginPage :28 - Clicking on creating new account Proxy element for: DefaultElementLocator 'By.cssSelector: a[class$='create-account-link']'
+2020-04-29 21:04:702 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 21:04:751 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (6c7c47859135dae210864a590bb1e363)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 21:04:137 INFO  LoginPage :28 - Clicking on creating new account Proxy element for: DefaultElementLocator 'By.cssSelector: a[class$='create-account-link']'
+2020-04-29 21:04:192 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 21:04:748 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (93e7b560feab9f83e978b432bfff0ff9)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 21:04:80 INFO  LoginPage :28 - Clicking on creating new account Proxy element for: DefaultElementLocator 'By.cssSelector: a[class$='create-account-link']'
+2020-04-29 21:04:640 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 21:04:664 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (41a2b467af39e22c13adef7e036e43fc)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 21:04:213 INFO  LoginPage :28 - Clicking on creating new account Proxy element for: DefaultElementLocator 'By.cssSelector: a[class$='create-account-link']'
+2020-04-29 21:04:157 INFO  HomePage :34 - enter emailramFgNJS@gmail.comto email filed[[ChromeDriver: chrome on WINDOWS (41a2b467af39e22c13adef7e036e43fc)] -> id: login]
+2020-04-29 21:04:875 INFO  HomePage :41 - enter passwordlondon1to the filed[[ChromeDriver: chrome on WINDOWS (41a2b467af39e22c13adef7e036e43fc)] -> id: password]
+2020-04-29 21:04:376 INFO  HomePage :47 - enter passwordlondon1to the filed[[ChromeDriver: chrome on WINDOWS (41a2b467af39e22c13adef7e036e43fc)] -> id: password-conf]
+2020-04-29 21:04:945 INFO  HomePage :53 - click on create btn [[ChromeDriver: chrome on WINDOWS (41a2b467af39e22c13adef7e036e43fc)] -> xpath: //div[contains(@class,'button submit')]//button[contains(@class,'submit')]]
+2020-04-29 21:04:865 INFO  AccountPage :39 - Verifying Account text[[ChromeDriver: chrome on WINDOWS (41a2b467af39e22c13adef7e036e43fc)] -> xpath: //a[contains(text(),'My account')]]
+2020-04-29 21:04:32 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 21:04:569 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (f5c5a9d97dbcd184787c01a7cf685504)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 21:04:858 INFO  LoginPage :34 - Entering email id in the email field[[ChromeDriver: chrome on WINDOWS (f5c5a9d97dbcd184787c01a7cf685504)] -> css selector: input#login-email]
+2020-04-29 21:04:152 INFO  LoginPage :40 - Entering password in the password field[[ChromeDriver: chrome on WINDOWS (f5c5a9d97dbcd184787c01a7cf685504)] -> css selector: input#login-password]
+2020-04-29 21:04:386 INFO  LoginPage :46 - Clicking on sign in button[[ChromeDriver: chrome on WINDOWS (f5c5a9d97dbcd184787c01a7cf685504)] -> xpath: //button[contains(@class,'submit')]//span[contains(text(),'Sign in')]]
+2020-04-29 21:04:828 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 21:04:865 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (e8319a64fb2203d2d91cefb8ebc199b5)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 21:04:257 INFO  LoginPage :34 - Entering email id in the email field[[ChromeDriver: chrome on WINDOWS (e8319a64fb2203d2d91cefb8ebc199b5)] -> css selector: input#login-email]
+2020-04-29 21:04:523 INFO  LoginPage :40 - Entering password in the password field[[ChromeDriver: chrome on WINDOWS (e8319a64fb2203d2d91cefb8ebc199b5)] -> css selector: input#login-password]
+2020-04-29 21:04:885 INFO  LoginPage :46 - Clicking on sign in button[[ChromeDriver: chrome on WINDOWS (e8319a64fb2203d2d91cefb8ebc199b5)] -> xpath: //button[contains(@class,'submit')]//span[contains(text(),'Sign in')]]
+2020-04-29 21:04:353 INFO  AccountPage :39 - Verifying Account text[[ChromeDriver: chrome on WINDOWS (e8319a64fb2203d2d91cefb8ebc199b5)] -> xpath: //a[contains(text(),'My account')]]
+2020-04-29 21:04:551 INFO  AccountPage :45 - Clicking on My account button[[ChromeDriver: chrome on WINDOWS (e8319a64fb2203d2d91cefb8ebc199b5)] -> xpath: //a[contains(text(),'My account')]]
+2020-04-29 21:04:261 INFO  AccountPage :33 - Clicking on logout buttonProxy element for: DefaultElementLocator 'By.xpath: //ul[@class='account-links dropdown-menu']//li[7]'
+2020-04-29 21:04:372 INFO  HomePage :25 - verifying Sign in text on Home page[[ChromeDriver: chrome on WINDOWS (e8319a64fb2203d2d91cefb8ebc199b5)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 21:04:229 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 21:04:465 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (d1fca27ebebb6d457f055e9a5a629820)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 21:04:767 INFO  LoginPage :34 - Entering email id in the email field[[ChromeDriver: chrome on WINDOWS (d1fca27ebebb6d457f055e9a5a629820)] -> css selector: input#login-email]
+2020-04-29 21:04:269 INFO  LoginPage :40 - Entering password in the password field[[ChromeDriver: chrome on WINDOWS (d1fca27ebebb6d457f055e9a5a629820)] -> css selector: input#login-password]
+2020-04-29 21:04:727 INFO  LoginPage :46 - Clicking on sign in button[[ChromeDriver: chrome on WINDOWS (d1fca27ebebb6d457f055e9a5a629820)] -> xpath: //button[contains(@class,'submit')]//span[contains(text(),'Sign in')]]
+2020-04-29 21:04:256 INFO  AccountPage :39 - Verifying Account text[[ChromeDriver: chrome on WINDOWS (d1fca27ebebb6d457f055e9a5a629820)] -> xpath: //a[contains(text(),'My account')]]
+2020-04-29 21:04:632 INFO  AccountPage :45 - Clicking on My account button[[ChromeDriver: chrome on WINDOWS (d1fca27ebebb6d457f055e9a5a629820)] -> xpath: //a[contains(text(),'My account')]]
+2020-04-29 21:04:83 INFO  AccountPage :33 - Clicking on logout buttonProxy element for: DefaultElementLocator 'By.xpath: //ul[@class='account-links dropdown-menu']//li[7]'
+2020-04-29 21:04:596 INFO  HomePage :25 - verifying Sign in text on Home page[[ChromeDriver: chrome on WINDOWS (d1fca27ebebb6d457f055e9a5a629820)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 21:04:470 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 21:04:271 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (4d8434ee7021b6b18c19a8168fffd1c7)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 21:04:999 INFO  LoginPage :28 - Clicking on creating new account Proxy element for: DefaultElementLocator 'By.cssSelector: a[class$='create-account-link']'
+2020-04-29 21:04:627 INFO  HomePage :30 - enter emailto email filed[[ChromeDriver: chrome on WINDOWS (4d8434ee7021b6b18c19a8168fffd1c7)] -> id: login]
+2020-04-29 21:04:138 INFO  HomePage :37 - enter passwordlondon1to the filed[[ChromeDriver: chrome on WINDOWS (4d8434ee7021b6b18c19a8168fffd1c7)] -> id: password]
+2020-04-29 21:04:476 INFO  HomePage :43 - enter passwordlondon1to the filed[[ChromeDriver: chrome on WINDOWS (4d8434ee7021b6b18c19a8168fffd1c7)] -> id: password-conf]
+2020-04-29 21:04:765 INFO  HomePage :49 - click on create btn [[ChromeDriver: chrome on WINDOWS (4d8434ee7021b6b18c19a8168fffd1c7)] -> xpath: //div[contains(@class,'button submit')]//button[contains(@class,'submit')]]
+2020-04-29 21:04:945 INFO  AccountPage :39 - Verifying Account text[[ChromeDriver: chrome on WINDOWS (4d8434ee7021b6b18c19a8168fffd1c7)] -> xpath: //a[contains(text(),'My account')]]
+2020-04-29 21:04:71 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 21:04:317 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (9ffe40a705e113c6b4751cc710476e14)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 21:04:30 INFO  LoginPage :34 - Entering email id in the email field[[ChromeDriver: chrome on WINDOWS (9ffe40a705e113c6b4751cc710476e14)] -> css selector: input#login-email]
+2020-04-29 21:04:584 INFO  LoginPage :40 - Entering password in the password field[[ChromeDriver: chrome on WINDOWS (9ffe40a705e113c6b4751cc710476e14)] -> css selector: input#login-password]
+2020-04-29 21:04:955 INFO  LoginPage :46 - Clicking on sign in button[[ChromeDriver: chrome on WINDOWS (9ffe40a705e113c6b4751cc710476e14)] -> xpath: //button[contains(@class,'submit')]//span[contains(text(),'Sign in')]]
+2020-04-29 21:04:332 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 21:04:122 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (8afb997080dd9c45bc032c789ca8b129)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 21:04:417 INFO  LoginPage :28 - Clicking on creating new account Proxy element for: DefaultElementLocator 'By.cssSelector: a[class$='create-account-link']'
+2020-04-29 21:04:965 INFO  HomePage :30 - enter emailto email filed[[ChromeDriver: chrome on WINDOWS (8afb997080dd9c45bc032c789ca8b129)] -> id: login]
+2020-04-29 21:04:568 INFO  HomePage :37 - enter passwordlondon1to the filed[[ChromeDriver: chrome on WINDOWS (8afb997080dd9c45bc032c789ca8b129)] -> id: password]
+2020-04-29 21:04:856 INFO  HomePage :43 - enter passwordlondon1to the filed[[ChromeDriver: chrome on WINDOWS (8afb997080dd9c45bc032c789ca8b129)] -> id: password-conf]
+2020-04-29 21:04:195 INFO  HomePage :49 - click on create btn [[ChromeDriver: chrome on WINDOWS (8afb997080dd9c45bc032c789ca8b129)] -> xpath: //div[contains(@class,'button submit')]//button[contains(@class,'submit')]]
+2020-04-29 21:04:358 INFO  AccountPage :40 - Verifying Account text[[ChromeDriver: chrome on WINDOWS (8afb997080dd9c45bc032c789ca8b129)] -> xpath: //a[contains(text(),'My account')]]
+2020-04-29 21:04:374 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-29 21:04:644 INFO  HomePage :31 - Clicking on sign in link on home page[[ChromeDriver: chrome on WINDOWS (edc33142a4c152669507c2228bd97566)] -> xpath: //div[@id='header-bar']//div//span[contains(text(),'Sign in')]]
+2020-04-29 21:04:498 INFO  LoginPage :34 - Entering email id in the email field[[ChromeDriver: chrome on WINDOWS (edc33142a4c152669507c2228bd97566)] -> css selector: input#login-email]
+2020-04-29 21:04:974 INFO  LoginPage :40 - Entering password in the password field[[ChromeDriver: chrome on WINDOWS (edc33142a4c152669507c2228bd97566)] -> css selector: input#login-password]
+2020-04-29 21:04:344 INFO  LoginPage :46 - Clicking on sign in button[[ChromeDriver: chrome on WINDOWS (edc33142a4c152669507c2228bd97566)] -> xpath: //button[contains(@class,'submit')]//span[contains(text(),'Sign in')]]
